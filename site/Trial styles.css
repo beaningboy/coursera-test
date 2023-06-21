@@ -1,0 +1,36 @@
+		p{
+			color:blue;
+			width: 50px;
+			margin: 26;
+			background-color: crimson;
+		}
+		.thisone{
+			background-color: teal;
+			width: 100px;
+			font-family: serif;
+		}
+		#brig{
+			background-color: aqua;
+			width: 100px;
+		}
+		a:hover div:nth-child(5) {
+			font-size: 24px;
+		}
+		a,div{
+
+			width: 100px;
+			margin: 12px;
+			height: 50px;
+			overflow: auto;
+			background-color: lightblue;
+		}
+		a:link{
+			text-decoration: none;
+			color: magenta;
+			font-size: 24px;
+			font-family: Courier New;
+		}
+		*{
+			margin:0;
+
+		}		
