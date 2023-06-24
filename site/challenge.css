@@ -1,0 +1,291 @@
+*{
+	box-sizing: border-box;
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+}
+.first{
+	background: #5588ed;
+	width: 400px;
+	height: 200px;
+	display:inline-block;
+	margin-right: 0px;
+}
+.first1{
+	background: #464a4a;
+	width: 50px;
+	height: 50px;
+	margin: 75px 50px 0px 50px;
+}
+.first2{
+	background: #464a4a;
+	width: 100px;
+	height: 50px;
+	margin-left: 100px;
+}
+.first3{
+	background: #464a4a;
+	width: 50px;
+	height: 50px;
+	margin-left: 150px;
+}
+.second{
+	background: #f2e018;
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+}
+.second1{
+	background: #464a4a;
+	width: 50px;
+	height: 50px;
+	margin: 0px 0px 0px 0px;
+}
+.second2{
+	background: #464a4a;
+	width: 50px;
+	height: 50px;
+	margin-left: 150px;
+	margin-top:100px;
+}
+.third{
+	background: #adada8;
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+}
+.third1{
+	background: #464a4a;
+	width: 50px;
+	height: 50px;
+	margin: 75px 0px 0px 75px;
+}
+.fourth{
+	background: #d43535;
+	width: 100px;
+	height: 200px;
+	display: inline-block;
+}
+.fifth{
+	background: #464a4a;
+	width: 100px;
+	height: 200px;
+	display: inline-block;
+}
+.fifth1{
+	background: #45e6e0;
+	width: 100px;
+	height: 100px;
+}
+.sixth{
+	background: #b022e3;
+	width: 600px;
+	height: 100px;
+	margin-top: -5px;
+	display: inline-block;
+}
+.sixth1{
+	background: #e01414;
+	width: 50px;
+	height: 50px;
+}
+.sixth2{
+	background: #f2e018;
+	width: 50px;
+	height: 50px;
+	margin-top: -50px;
+	margin-left: 50px;
+}
+.sixth3{
+	background: #e01414;
+	width: 50px;
+	height: 50px;
+	margin-top: -50px;
+	margin-left: 100px;
+}
+.sixth4{
+	background: #f2e018;
+	width: 50px;
+	height: 50px;
+	margin-top: -50px;
+	margin-left: 150px;
+}
+.sixth5{
+	background: #ed8e11;
+	width: 400px;
+	height: 50px;
+}
+.sixth6{
+	background: #1d5c06;
+	width: 200px;
+	height: 50px;
+	margin-top: -50px;
+	margin-left: 400px;
+}
+.seventh{
+	background: #733dd9;
+	width: 400px;
+	height: 100px;
+	margin-top: -5px;
+	display: inline-block;
+}
+.eighth{
+	background: #ed8e11;
+	width: 200px;
+	height: 400px;
+	margin-top: -5px;
+	display: inline-block;
+}
+.eighth1{
+	background: #464a4a;
+	height: 200px;
+	width: 200px;
+}
+.eighth2{
+	background: #f2e018;
+	width: 100px;
+	height: 100px;
+}
+.eighth3{
+	background: #adada8;
+	width: 100px;
+	height: 100px;
+	margin-left: 100px;
+}
+.ninth{
+	background: #d43535;
+	width: 300px;
+	height: 400px;
+	display: inline-block;
+	margin-top: -5px;
+}
+.ninth1{
+	background: white;
+	width: 50px;
+	height: 50px;
+}
+.ninth2{
+	background: white;
+	width: 50px;
+	height: 50px;
+	margin: -50px 0px 0px 250px;
+}
+.ninth3{
+	background: white;
+	width: 100px;
+	height: 100px;
+	margin: 100px 0px 100px 100px;
+}
+.ninth4{
+	background: white;
+	width: 50px;
+	height: 50px;
+}
+.ninth5{
+	background: white;
+	width: 50px;
+	height: 50px;
+	margin-top: -50px;
+	margin-left: 250px;
+}
+.tenth{
+	background:#45e6e0;
+	width: 300px;
+	height: 400px;
+	display: inline-block;
+	margin-top: -5px;
+}
+.tenth1{
+	background: #60db32;
+	width: 300px;
+	height: 50px;
+}
+.tenth2{
+	background: white;
+	width: 50px;
+	height: 50px;
+	margin: -50px 0px 0px 50px;
+}
+.tenth3{
+	background: white;
+	width: 50px;
+	height: 50px;
+	margin: -50px 0px 0px 150px;
+}
+.tenth4{
+	background: white;
+	width: 50px;
+	height: 50px;
+	margin: -50px 0px 0px 250px;
+}
+.tenth5{
+	background: #adada8;
+	width: 300px;
+	height: 50px;
+}
+.tenth6{
+	background: #1d5c06;
+	width: 300px;
+	height: 50px;
+}
+.tenth7{
+	background: #adada8;
+	width: 300px;
+	height: 50px;
+}
+.eleventh{
+	background: #adada8;
+	width: 200px;
+	height: 400px;
+	display: inline-block;
+	margin-top: -5px;
+}
+.eleventh1{
+	background: #464a4a;
+	height: 200px;
+	width: 200px;
+}
+.twelfth{
+	background: #733dd9;
+	width: 400px;
+	height: 100px;
+	margin-top: -5px;
+	display: inline-block;
+}
+.thirteenth{
+	background: #b022e3;
+	width: 600px;
+	height: 100px;
+	margin-top: -5px;
+	display: inline-block;
+}
+.thirteenth1{
+	background: #f2e018;
+	width: 200px;
+	height: 50px;
+	margin-left: 400px;
+}
+.thirteenth2{
+	background: #d43535;
+	width: 50px;
+	height: 50px;
+	margin: -50px 0px 0px 450px;
+}
+.thirteenth3{
+	background: #d43535;
+	width: 50px;
+	height: 50px;
+	margin: -50px 0px 0px 550px;
+}
+.thirteenth4{
+	background: #1d5c06;
+	width: 200px;
+	height: 50px;
+}
+.thirteenth5{
+	background: #ed8e11;
+	width: 400px;
+	height: 50px;
+	margin-top: -50px;
+	margin-left: 200px;
+}
